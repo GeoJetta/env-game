@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RPG Character Animation Pack/Code/EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/RPG Character Animation Pack/Code/RPGCharacterControllerFREE.cs" Line="191" Column="1" />
+      <File FileName="Assets/RPG Character Animation Pack/Code/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/RPG Character Animation Pack/Code/CamCon.cs" Line="11" Column="32" />
+      <File FileName="Assets/RPG Character Animation Pack/Code/EnemyMovement.cs" Line="10" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
