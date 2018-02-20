@@ -15,11 +15,12 @@ public class lava : MonoBehaviour {
 		
 	}
 
-	void onCollisionEnter( Collision yo )
+	void OnTriggerEnter( Collider yo )
 	{
 
-		if( yo.gameObject.tag == "Player" )
+		if( yo.gameObject.CompareTag( "Player" ) )
 			SceneManager.LoadScene( SceneManager.GetActiveScene().name );
+		Debug.Log("Collision Detected "+yo.gameObject.name);
 
 	}
 }
